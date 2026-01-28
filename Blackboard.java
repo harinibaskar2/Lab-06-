@@ -25,7 +25,7 @@ public class Blackboard {
         return stack.remove(stack.size() - 1);
     }
 
-    // printing (I think i remember from class we were supposed to add this I'm not entirely sure)
+
     public Vector<Integer> getStack () {
         return new Vector<>(stack);
     }
