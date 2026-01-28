@@ -1,3 +1,6 @@
+
+// Group Members: Harini Baskar and Giselle Ibarra
+
 public class Person implements Runnable {
     private int counter = 0;
     
@@ -15,3 +18,4 @@ public class Person implements Runnable {
         }
     }
 }
+
